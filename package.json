@@ -84,7 +84,8 @@
     "typescript": "^5.2.2"
   },
   "resolutions": {
-    "@types/react": "^18.2.44"
+    "@types/react": "^18.2.44",
+    "styled-components": "^5"
   },
   "peerDependencies": {
     "react": "*",
@@ -196,5 +197,8 @@
     "languages": "js",
     "type": "library",
     "version": "0.45.5"
+  },
+  "dependencies": {
+    "styled-components": "^6.1.13"
   }
 }
